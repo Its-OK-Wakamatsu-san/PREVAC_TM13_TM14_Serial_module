@@ -3,7 +3,7 @@ PREVAC TM-13/TM-14 serial on Python
 ### Keyword
 Python , module , method , library , PREVAC , TM-13 , TM-14 , serial IF , Binary I/O comunication , frequency , thickness ,
 
-![PREVAC TM-13/TM-14](https://github.com/user-attachments/assets/873bcdf3-9b04-4d0e-970e-5a4bb1c0902a)
+![PREVAC TM-13/TM-14](https://github.com/user-attachments/assets/fa39de1d-921b-412e-9dc7-44177fc06020)
 
 ## Overview
 It helps to operate an OMRON digital controller from an external PC.  The device used is an OMRON E5AC-TCX4ASM-000[^1] digital controller without an RS-485 communication IF.
