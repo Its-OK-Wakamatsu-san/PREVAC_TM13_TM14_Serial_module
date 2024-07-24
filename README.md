@@ -27,7 +27,7 @@ Below functions are available, as libraries for PREVAC thickness monitor.
   3. Libraries: PySerial
      
 ### Known issue
-  1. CRC8 [^2]: It is not possible to resolve the CRC8 code, so it can only receive frequency data.
+  1. CRC8 [^2]: It is not possible to resolve the CRC8 code for me, so it can only receive frequency data.
      
 ### Rerated Webpages
 [^1]: [PREVAC TM-13/TM-14](https://prevac.eu/product/thickness-monitors-tm13-tm14/)
