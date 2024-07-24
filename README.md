@@ -9,7 +9,7 @@ Python , module , method , library , PREVAC , TM-13 , TM-14 , serial IF , Binary
 It helps to operate an PREVAC TM-13/TM-14[^1] on Python.
 
 ### Function
-Below functions are available, as libraries for Omron Digital Controllers.
+Below functions are available, as libraries for PREVAC thickness monitor.
 1. Allocate serial IF communication
 2. Receive frequency
 
@@ -24,7 +24,7 @@ Below functions are available, as libraries for Omron Digital Controllers.
   3. Libraries: PySerial
      
 ### Known issue
-  1. CRC8??
+  1. CRC8??: It is not possible to resolve the CRC8 code, so it can only receive frequency data.
      
 ### Rerated Webpages
 [^1]: [PREVAC TM-13/TM-14](https://prevac.eu/product/thickness-monitors-tm13-tm14/)
