@@ -15,14 +15,17 @@ Below functions are available, as libraries for Omron Digital Controllers.
 
 ### Hardware Environment
   1. thickness (frequency) monitor : PREVAC TM-14
-  2. USB: OMRON USB Serial Conversion Cable E58-CIFQ2 [^7]
+  2. USB: MOXA UPort® 1100 Series of USB-to-serial converter [^2]
   3. PC: windows PC
+     
 ### Software Environment
   1. OS: Windows11
   2. Python: Version 3.9.13
   3. Libraries: PySerial
+     
 ### Known issue
-  1. None
+  1. CRC8??
+     
 ### Rerated Webpages
 [^1]: [PREVAC TM-13/TM-14](https://prevac.eu/product/thickness-monitors-tm13-tm14/)
-[^2]: [Frame Checksum (FCS)....EXCLUSIVE OR ...expressed in ASCII Characters](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
+[^2]: [MOXA UPort® 1100 Series of USB-to-serial converter](https://www.moxa.com/en/products/industrial-edge-connectivity/usb-to-serial-converters-usb-hubs/usb-to-serial-converters/uport-1100-series)
