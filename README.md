@@ -10,12 +10,14 @@ It helps to operate an PREVAC TM-13/TM-14 on Python.
 
 ### Function
 Below functions are available, as libraries for PREVAC thickness monitor.
+#### PREVAC_read_freq_module.py
 1. Allocate serial IF communication
 2. Receive frequency [^2]
 
  ![ Example ](https://github.com/user-attachments/assets/ac9b62b3-6478-4fed-b362-121585f916a0)
 
-3. Thickness is copied from Prevac thickness LabVIEW module.
+#### PREVAC_Thickness.py
+1. Thickness code is copied from Prevac thickness LabVIEW module.
    
 
 ### Hardware Environment
