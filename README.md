@@ -14,6 +14,8 @@ Below functions are available, as libraries for PREVAC thickness monitor.
 2. Receive frequency [^2]
 
  ![ Example ](https://github.com/user-attachments/assets/ac9b62b3-6478-4fed-b362-121585f916a0)
+
+3. Thickness is copied from Prevac thickness LabVIEW module.
    
 
 ### Hardware Environment
